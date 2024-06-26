@@ -1,2 +1,2 @@
-# HTML-CSS-Apresenta-o
+# HTML-CSS-Apresentação
 Repositorio de estudo Alura e Oracle.
